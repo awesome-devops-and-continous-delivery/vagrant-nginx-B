@@ -1,7 +1,5 @@
-# vagrant-nginx-B
+# Nginx webserver with Vagrant
 
-The static files are searched in this order in /var/www/html
+The static files are searched in /var/www/html (mapped with web folder) with this order:
 
-index index.html index.htm index.nginx-debian.html
-
-the web folder is synced with /var/www/html
+```index index.html index.htm index.nginx-debian.html```
