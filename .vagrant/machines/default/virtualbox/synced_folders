@@ -1,1 +1,0 @@
-{"virtualbox":{"/var/www/html/":{"guestpath":"/var/www/html","hostpath":"C:/Users/Ventu/Desktop/vagrant-nginx-B/web","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/Ventu/Desktop/vagrant-nginx-B","disabled":false,"__vagrantfile":true}}}
